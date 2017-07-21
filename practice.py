@@ -6,3 +6,4 @@ def print_date():
 
 def print_random_number():
     print(random())
+    print(datetime.now())
